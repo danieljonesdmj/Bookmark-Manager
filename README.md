@@ -1,11 +1,8 @@
-User story 1
+# Bookmark Manager (2nd-6th July)
 
-As a User
-So that I can see a what websites have been bookmarked
-I'd like to be shown a list of bookmarks
+Week 4 project at Makers Academy. The goal was to build a web app that stores web bookmarks in a database.
 
-User story 2
 
-As a user
-So that I can save a website
-I would like to add the site's address and title to bookmark manager
+
+
+
